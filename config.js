@@ -14,21 +14,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281528507289'] //ganti nomer lu
-global.ownername = "SalehKirz" //ganti nama lu
-global.developer = "SalehKirz" //nama lu
-global.ytname = "YT: SalehDev" //ur yt chanel name
-global.socialm = "https://www.instagram.com/salehofc_" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/Fvx2MTPUUW74Gp5Jc6QESN" //ganti group lu
-global.location = "Kalsel" //ganti lokasi lu
+global.vcardowner = ['6281288731124'] //ganti nomer lu
+global.ownername = "kucing" //
+global.developer = "kucing" //
+global.ytname = "-" //
+global.socialm ="-" //
+global.sgc = "https://chat.whatsapp.com/Fvx2MTPUUW74Gp5Jc6QESN" //https://chat.whatsapp.com/G6ku0gQqb2ZCQpfbMWqJVs
+global.location = "tangsel" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['6281528507289'] //ur number
-global.ownernomer = "6281528507289" //ur number
-global.ownertag = '6281528507289' //ur tag number
-global.premium = ['6281528506878'] //ur premium number
-global.botname = 'KirzBot' //ur bot name
-global.ownername = "SalehKirz"
+global.owner = ['6281288731124'] //ur number
+global.ownernomer = "6281288731124" //ur number
+global.ownertag = '6281288731124' //ur tag number
+global.premium = ['6281288731124'] //ur premium number
+global.botname = 'KucingBot' //ur bot name
+global.ownername = "kucing store"
 global.linkz = "https://youtube.com/@salehdev8956" //your theme url which will be displayed on whatsapp
 global.dana = "6281528506878"
 global.pulsa = "6281528507289"
@@ -47,7 +47,7 @@ global.sp = ''
 global.mess = {
     success: 'Done✓',
     admin: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘖𝘭𝘦𝘩 𝘈𝘥𝘮𝘪𝘯 𝘛𝘰𝘥!!',
-    botAdmin: '𝘉𝘰𝘵 𝘉𝘶𝘬𝘢𝘯 𝘈𝘥𝘮𝘪𝘯 𝘤𝘰𝘬',
+    botAdmin: 'mohon maaf bot bukan admin',
     premime: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘜𝘴𝘦𝘳 𝘗𝘳𝘦𝘮𝘪𝘶𝘮!',
     owner: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘥𝘪 𝘎𝘶𝘯𝘢𝘬𝘢𝘯 𝘰𝘭𝘦𝘩 𝘖𝘸𝘯𝘦𝘳!',
     group: '𝘏𝘢𝘯𝘺𝘢 𝘉𝘪𝘴𝘢 𝘋𝘪 𝘨𝘶𝘯𝘢𝘬𝘢𝘯 𝘋𝘪 𝘎𝘳𝘰𝘶𝘱',
